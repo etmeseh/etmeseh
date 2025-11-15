@@ -1,5 +1,32 @@
-# Hi there, I'm Etka! 👋
+# 👋 Hello, I'm etka
 
+Welcome to my GitHub profile!
+
+## 🌟 About Me
+
+I'm a passionate developer, keen on exploring the intersection of technology and creativity. I love coding, solving problems, and bringing ideas to life through software.
+
+- 🧑‍💻 Software Developer & Tech Enthusiast
+- 🎨 Creator of beautiful things through code
+- 🌍 Open to collaborating with innovative minds worldwide
+
+## 🚀 Skills & Interests
+
+- **Languages:** Python, JavaScript, TypeScript, PHP :)
+- **Frameworks:** React, Node.js, Django, Express
+- **DevOps:** Docker, GitHub Actions, CI/CD
+- **Cloud:** AWS, Azure, Google Cloud
+
+- 🛠️ Building scalable web apps
+- 📈 Data visualization and analytics
+- 🤖 Exploring machine learning
+- 🎮 Indie game development
+
+## 💡 Fun Facts
+
+- Always curious, always learning!
+- Music powers my productivity 🎵
+- I believe sharing knowledge is the best way to grow 🌱
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oncuol-etka/)
