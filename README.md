@@ -4,8 +4,8 @@ Full-stack developer in Berlin. I build **React + TypeScript** frontends on **Py
 
 ## ⭐ Featured work
 
-### Volunteer Matching Platform – MachMit-Zentrum e.V.
-Internal app that matches volunteers with placements across Berlin. Lead developer (volunteer).
+### [Volunteer Matching Platform](https://github.com/etmeseh/volunteer-matching-case-study) – MachMit-Zentrum e.V.
+Internal app that matches volunteers with placements across Berlin. Lead developer (volunteer). → **[Read the case study](https://github.com/etmeseh/volunteer-matching-case-study)**
 - React 18 · TypeScript · Vite · Tailwind · Radix/shadcn · Zustand · i18next · Leaflet · Vitest · Cypress · Django REST Framework · Docker
 - Multi-step wizard forms, matching suggestions, map view, Excel import, auth, backup/restore, UI in DE/EN/TR
 - Written frontend standards (e.g. field-level error visibility with `aria-invalid` and focus on the first invalid field)
