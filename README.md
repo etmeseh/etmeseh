@@ -27,6 +27,8 @@ Internal app that matches volunteers with placements across Berlin. Lead develop
 ## 🛡 Security
 TryHackMe top 2% worldwide · write-ups in [ctf-writeups](https://github.com/etmeseh/ctf-writeups)
 
+<a href="https://tryhackme.com/p/etmeseh"><img src="https://cdn-images.tryhackme.com/capability-score/etmeseh.png" alt="TryHackMe capability score" width="420" /></a>
+
 ## 🧰 Stack
 **Frontend:** React, TypeScript, Vite, Tailwind CSS, Radix UI / shadcn, Zustand, i18next, Leaflet, Three.js, React Native  
 **Testing:** Vitest, Testing Library, Cypress  
@@ -41,5 +43,3 @@ Volunteer web developer and IT support for Berlin nonprofits (MachMit-Zentrum e.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oncuol-etka/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oncuoletka)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:etka@reative.de)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/etmeseh.png" alt="TryHackMe Badge" />
